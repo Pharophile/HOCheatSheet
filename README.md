@@ -4,7 +4,7 @@ A Pharo language cheat sheet in code
 
 File the code in with:
 
-```
+```Smalltalk
 (ZnEasy get:'https://raw.githubusercontent.com/philippeback/HOCheatSheet/master/HOCheatSheet.st') contents readStreamDo: [ :s | s fileIn ]
 ```
 
